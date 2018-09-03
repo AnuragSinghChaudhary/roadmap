@@ -162,12 +162,12 @@ Add to the Mobile application :
 - Educational content (300/300 questions/answers)
 - Speech-to-text for daneel.
 
-Launch of the professional tool : web application to manage efficiently a portfolio, personalized reports, follow trends, and get insights to discover new projects.
-- Planned features :
+Launch of the professional web tool : web application to manage efficiently a portfolio, personalized reports, follow trends, and get insights to discover new projects.
+- Planned features for the web application :
 	- Portfolio management
 	- Personalized news feed
 	- Search & Query database directly
-	- Daneel assistant
+	- Smart assistant integration
 	- Personalized reports daily/weekly
 	- Project page : ICOs, currencies
 	- Detailled graphs : price/market sentiment/predictions
