@@ -59,11 +59,13 @@
 - ✅ Trends analysis (algo)
 - ✅ Emotion metering (IBM Watson)
 - ✅ Project scoring (algo + machine learning)
-- ✅ Price prediction for #BTC (machine learning model)
+- ✅ Price prediction (machine learning model)
 
 ✅ Creation of a knowledge-base dedicated to the crypto/Blockchain world (for education questions).
 - ✅ 300 questions and answers about concepts, mechanisms, trading.
+
 ### 2018Q3: Alpha development – part 3
+
 ✅ Smart assistant development (daneel) :
 - ✅ 9 months incubation in a motherboard
 - ✅ Birth (July 1st, 2018)
@@ -82,9 +84,10 @@
 - ✅ Learning Polish language
 - ✅ Learning Spanish language
 
- ✅ Development of API system :
+✅ Development of API system :
 - ✅ User management
 - ✅ Rate limit (anti-flood)
+
 
 ✅ Mobile app development :
 - ✅ UX design
@@ -95,6 +98,12 @@
 - Settings view & User profile and preferences
 - Insights view development (predictions)
 - UI implementation
+
+✅ Data integration in Mobile app :
+- ✅ Educational content (50/300 questions/answers)
+- ✅ Newsfeed
+- ✅ Scores (market, sentiment, projects)
+- ✅ Prediction for #BTC
 
 ### 2018Q4: Beta-testing
 Launch of the Mobile App :
@@ -125,6 +134,8 @@ price
 
 Add to the mobile application :
 - “Reliability score” display for every information
+- Prediction for multiple currencies
+- Educational content (150/300 questions/answers)
 
 ### 2019 Q2: Portfolio monitoring and Professional Web-application
 Add to the BigData system :
@@ -135,6 +146,7 @@ Add to the BigData system :
 
 Add to the Mobile application :
 - Portfolio view : Track user investments (by tracking public address, exchange API-key, or manual input), show current and predicted impact of the news and the market sentiment.
+- Educational content (300/300 questions/answers)
 - Speech-to-text for daneel.
 
 Launch of the professional tool : web application to manage efficiently a portfolio, personalized reports, follow trends, and get insights to discover new projects.
