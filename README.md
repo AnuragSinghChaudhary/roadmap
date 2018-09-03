@@ -21,7 +21,7 @@
 ✅ Testing ideas in front of users (meetings, web, forums).
 ### 2017Q3: R&D
 ✅ Development of a big-data system to collect information all over the web.
-- ✅ Newsfeeds (press, forums, twitter, reddit)
+- ✅ Newsfeeds (press & social medias | 4000 different sources of information)
 - ✅ Prices
 ✅ Development of algorithms and machine learning models to filter, analyze, and score information :
     - ✅ Emotion analysis
