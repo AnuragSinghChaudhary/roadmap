@@ -27,11 +27,12 @@
 - ✅ Prices
 
 ✅ Development of algorithms and machine learning models to filter, analyze, and score information :
-    - ✅ Emotion analysis
-    - ✅ Market sentiment metering
-    - ✅ Trends and most-mentioned keywords
+- ✅ Emotion analysis
+- ✅ Market sentiment metering
+- ✅ Trends and most-mentioned keywords
 
 ### 2017Q4: PoC
+
 ✅ Development of a web application to showcase the results.
 
 ✅ Study of the cryptocurrency world : scams, fake-news, price manipulation, hacks, regulation, high-volatility.
@@ -59,7 +60,6 @@
 ✅ Increase database performance.
 
 ### 2018Q2: Alpha development – part 2
-
 ✅ Development of API system :
 - ✅ Conception
 - ✅ Filter and index keys
