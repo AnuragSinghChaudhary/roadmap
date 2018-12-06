@@ -66,7 +66,7 @@
 - ✅ Trends analysis (algo)
 - ✅ Emotion metering (IBM Watson)
 - ✅ Project scoring (algo + machine learning)
-- ✅ Price prediction (machine learning model)
+- ✅ Price forecasting (machine learning model)
 
 ✅ Creation of a knowledge-base dedicated to the crypto/Blockchain world (for education questions).
 - ✅ 300 questions and answers about concepts, mechanisms, trading.
@@ -103,20 +103,20 @@
 - ✅ Dashboard view development
 - ✅ Smart assistant integration
 - ✅ Settings view & User profile and preferences
-- ✅ Insights view development (predictions)
+- ✅ Insights view development (forecastings)
 - ✅ UI implementation
 
 ✅ Data integration in Mobile app :
 - ✅ Educational content (50/300 questions/answers)
 - ✅ Newsfeed
 - ✅ Scores (market, sentiment, projects)
-- ✅ Prediction for #BTC
+- ✅ forecasting for #BTC
 
 ## 2018Q4: Beta-testing
 #### ✅ Launch of the Mobile App :
 - ✅ [ALPHA] : September 15th : team, advisors, ambassadors, partners
 - ✅ [BETA] : October 15th for registered beta-testers (https://daneel.io)
-- ✅ [PUBLIC v1] : December 1st
+- ✅ [PUBLIC] : December 1st
 
 During these phases :
 - ✅  Monitoring feedbacks of testers.
@@ -126,7 +126,6 @@ During these phases :
 
 Add to the mobile application :
 - ✅ “Reliability score” display for every information
-- Prediction for multiple currencies
 - ✅ Educational content (150/300 questions/answers)
 
 #### ✅ New website
@@ -184,7 +183,7 @@ Web application to manage efficiently a portfolio, personalized reports, follow 
 	- 🕗 Smart assistant integration
 	- Personalized reports daily/weekly
 	- Project page : ICOs, currencies
-	- 🕗 Detailled graphs : price/market sentiment/predictions
+	- 🕗 Detailled graphs : price/market sentiment/forecastings
 
 #### Google Home alpha-launch
 
